@@ -1,0 +1,15 @@
+TestCase1
+Login with valid username and valid pass
+
+TestCase2
+Login with invalid username and valid pass
+
+TestCase3
+Login with invalid username and invalid pass
+
+TestCase4
+Login with valid username and invalid pass
+
+TestCase5
+Login with blank username and blank pass
+
